@@ -24,6 +24,7 @@
 Small and medium businesses in the UAE carry a heavy compliance load — quarterly **VAT 201** returns, **Corporate Tax**, **WPS** salary files and **end-of-service gratuity** — yet most run on a patchwork of spreadsheets, a generic accounting package and a separate payroll sheet. Numbers get re-keyed several times and only meet at filing time.
 
 Najm ERP puts the whole business in one double-entry system that already knows UAE rules. A sales invoice moves stock, posts cost of goods, records output VAT by emirate and updates the customer’s balance in a single transaction — so the VAT return, the ledger and the stock report always agree.
+contact : wcc0207@gmail.com
 
 ## Features
 
