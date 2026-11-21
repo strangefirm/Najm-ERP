@@ -2,6 +2,8 @@
 
 # ⭐ Najm ERP
 
+ It's LIVE : https://erp.nexauraai.tech
+ 
 **A UAE-native business suite: accounting, VAT & Corporate Tax, inventory, CRM, projects, HR & payroll — in one app.**
 
 *Najm (نجم) means “star” in Arabic.*
